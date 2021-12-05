@@ -1,15 +1,27 @@
-.mainhead{
-	text-align: center;
+h1 {
+       text-align: center;
         color: orange;
-        font-size: 96pt;	
-}
-.header{
-	text-align: left;
-        color: blue;
-	
-}
-.heady{
-	text-align: right;
+        font-size: 96pt;
+        
+      }
+      h1#opt1{
+       text-align: center;
+       color: blue;
+        
+        
+      }
+      h1#opt2{
+        text-align: left;
         color: red;
         font-size: 96px;
+      }
+ table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+        padding: 20px;
+            }
+.header2{
+	
+	
+	
 }
