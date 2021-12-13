@@ -20,8 +20,10 @@ h1 {
         border-collapse: collapse;
         padding: 20px;
             }
-.header2{
-	
-	
+body{
+	 background-image: url('img_lotofbass.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;	
 	
 }
