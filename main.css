@@ -15,7 +15,7 @@ h1 {
         color: red;
         font-size: 96px;
       }
-p{
+h1, p, ol, ul, li{
 color: yellow;	
 	
 }
