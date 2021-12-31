@@ -18,7 +18,7 @@ h1 {
 h5, h4, p, ol, ul, li, th, td, caption{
 color: yellow;
 h3#hidden{
-	display: hidden;
+	display: block;
 	
 	}
 	
