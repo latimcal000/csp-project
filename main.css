@@ -16,7 +16,11 @@ h1 {
         font-size: 96px;
       }
 h5, h4, p, ol, ul, li, th, td, caption{
-color: yellow;	
+color: yellow;
+h3#hidden{
+	display: hidden;
+	
+	}
 	
 }
  table, th, td {
